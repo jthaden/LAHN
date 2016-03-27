@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LAHN</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="password_greater">Password (6+ characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Log In</string>
+    <string name="login_to_lahn">Log In to LAHN</string>
+    <string name="username">Username</string>
+    <string name="create_account">Create an Account</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="error_field_required">Field required.</string>
+    <string name="error_invalid_email">Not an email address.</string>
+    <string name="error_password_too_short">Password provided is too short.</string>
+    <string name="error_password_mismatch">Passwords don\'t match.</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+</resources>
